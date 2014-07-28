@@ -7,12 +7,12 @@ Rambl uses the WebRTC API, which is currently implemented in Chrome, Firefox and
 ## Table of Contents
 
 1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+2. [Requirements](#requirements)
+3. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-1. [Contributing](#contributing)
-1. [License](#license)
+    2. [Tasks](#tasks)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Usage
 
@@ -68,3 +68,9 @@ See the project's backlog in asana.
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Author
+
+Xianhui Feng   [xianhuifeng/rambl](https://github.com/xianhuifeng/rambl/commits/master)
+- Ensured back end server side perform successfully and correctly using easyRTC.js and express.js
+- Designed front page and added notes feature when users are having interview or practicing interviews
